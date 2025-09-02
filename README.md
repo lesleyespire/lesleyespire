@@ -4,6 +4,6 @@ My name is Jacob, you probably already worked that out. I worked to create the S
 
 - 🔭 I’m currently working on a bunch of stuff, you can check my repository to find out
 - 🌱 I’m currently learning javascript and development
-- 📫 How to reach me: jacobfortune316@gmail.com, or as world.of.infinity on discord
+- 📫 How to reach me: Pyro.Byte@outlook.com, or as world.of.infinity on discord
 - ⚡ Fun fact: 
 --> I'm also known as Solos, its a dead youtube channel and a discord name

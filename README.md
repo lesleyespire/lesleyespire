@@ -5,8 +5,6 @@ I worked to create the SoW addon, and I kinda develop that sometimes. I'm workin
 
 🌱 I’m currently learning javascript and development
 
-📫 How to reach me: Pyro.Byte@outlook.com, or as world.of.infinity on discord
-
-⚡ Fun fact: --> I'm also known as Solos, its a dead youtube channel and a discord name
+📫 How to reach me: Pyro.Byte@outlook.com,
 
 <h3/>

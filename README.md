@@ -1,9 +1,11 @@
 <h1> Hi there 👋 <h1/> <h3>  
-I worked to create the SoW addon, and I kinda develop that sometimes. I'm working on my old SoW Minecraft Sever, it's got a nice discord as well. I'm writing a book, you might hear a bit more about that later. Hope you have a great time. God bless! 
+I worked to create the SoW addon, and I kinda develop that sometimes. I'm working on my old SoW Minecraft Sever, it's got a nice discord as well. I'm also writing a book, you might hear a bit more about that later! 
+  
+  Hope you have a great time. God bless! 
 
 🔭 I’m currently working on a bunch of stuff, you can check my repository to find out
 
-🌱 I’m currently learning javascript and development
+🌱 I’m currently learning javascript and python, as well as JSON formatting.
 
 📫 How to reach me: Pyro.Byte@outlook.com,
 

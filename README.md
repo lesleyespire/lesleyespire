@@ -5,7 +5,7 @@ Hope you have a great time. God bless!
 
 🔭 I’m currently working on a chat website
 
-🌱 I'd like to learn 
+🌱 I'd like to learn more about narrative economics and sociology
 
 📫 How to reach me: hello@motylo.xyz,
 
